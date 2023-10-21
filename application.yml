@@ -7,7 +7,3 @@ management:
   tracing:
     sampling:
       probability: 1.0
-
-option:
-  ai:
-    path: yyyy
